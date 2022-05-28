@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VishwanathKaradi
-- 👀 I’m interested in mindfulness, fitness and web development
+- 👀 My few areas of interests are mindfulness, fitness and web development
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me vskaradi95@gmail.com
+- 📫 You can write to me at vskaradi95@gmail.com
 
 <!---
 VishwanathKaradi/VishwanathKaradi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

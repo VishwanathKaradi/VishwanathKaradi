@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VishwanathKaradi
-- 👀 My few areas of interests are mindfulness, fitness and web development
 - 🌱 I’m currently learning JavaScript
 - 📫 You can write to me at vskaradi95@gmail.com
 

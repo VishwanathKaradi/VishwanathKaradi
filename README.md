@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishwanathKaradi
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m interested in learning Web Development. Currently learning React.
 - 📫 You can write to me at vskaradi95@gmail.com
 
 <!---
